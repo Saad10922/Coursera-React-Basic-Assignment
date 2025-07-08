@@ -1,5 +1,5 @@
 
-# 🧮 Simplest Working Calculator
+# 🧮 Simplem Working Calculator
 
 This is a basic React-based calculator built as part of a Coursera assignment. The app allows you to perform simple arithmetic operations like addition, subtraction, multiplication, and division using a single input field.
 
