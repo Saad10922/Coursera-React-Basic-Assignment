@@ -1,49 +1,81 @@
-Simplest Working Calculator 🧮
+
+# 🧮 Simplest Working Calculator
+
 This is a basic React-based calculator built as part of a Coursera assignment. The app allows you to perform simple arithmetic operations like addition, subtraction, multiplication, and division using a single input field.
-🚀 Features
 
-Add, subtract, multiply, and divide numbers
-Reset the input field
-Reset the result
-Input validation (e.g., prevents division by zero)
+---
 
-📦 Technologies Used
+## 🚀 Features
 
-React 19
-JavaScript (ES6)
-CSS
-Create React App boilerplate
+- Add, subtract, multiply, and divide numbers  
+- Reset the input field  
+- Reset the result  
+- Input validation (e.g., prevents division by zero)
 
-📁 Project Structure
-coursera_calculator_assignment/
-├── public/
-├── src/
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── package.json
+---
+
+## 📦 Technologies Used
+
+- React 19  
+- JavaScript (ES6)  
+- CSS  
+- Create React App boilerplate
+
+---
+
+## 📁 Project Structure
+
+
+```
+
+coursera_calculator_assignment/  
+├── public/  
+├── src/  
+│ ├── App.js  
+│ ├── App.css  
+│ └── index.js  
+├── package.json  
 └── README.md
 
-🛠️ Installation and Setup
+```
 
-Clone the repository:
-git clone https://github.com/your-username/coursera_calculator_assignment.git
-cd coursera_calculator_assignment
+---
 
-Install dependencies:
-npm install
+## 🛠️ Installation and Setup
 
-Start the development server:
-npm start
+1. **Clone the repository:**
 
-The app will run locally at: http://localhost:3000
-🧪 Running Tests
+   ```bash
+   git clone https://github.com/Saad10922/Coursera-React-Basic-Assignment.git
+   cd coursera_calculator_assignment
+
+
+
+2.  **Install dependencies:**
+    
+    ```bash
+    npm install
+    
+    ```
+    
+3.  **Start the development server:**
+    
+    ```bash
+    npm start
+    
+    ```
+    
+
+The app will run locally at:  
+👉 [http://localhost:3000](http://localhost:3000/)
+
+----------
+
+## 🧪 Running Tests
+
 To run the test suite:
+
+```bash
 npm test
 
-📷 Preview
-
-Add a screenshot named screenshot.png in your project root if you want this image to render.
-
-📃 License
-This project is for educational purposes.
+```
